@@ -8,8 +8,7 @@ Client-server app to learn basic abilities of docker compose
 ```
 $ docker-compose down
 ```
-* Very cool command
+* Very cool command that help perform command in running container
 ```
 docker-compose exec [service name] [command]
 ```
-that help to perform command in running container
